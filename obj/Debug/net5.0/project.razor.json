@@ -15603,13 +15603,38 @@
   "RootNamespace": "MvcFriends",
   "Documents": [
     {
+      "FilePath": "/Users/zang/Projects/MvcFriends/Views/Friends/Delete.cshtml",
+      "TargetPath": "Views\\Friends\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/zang/Projects/MvcFriends/Views/Friends/Create.cshtml",
+      "TargetPath": "Views\\Friends\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/zang/Projects/MvcFriends/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/zang/Projects/MvcFriends/Views/Friends/Edit.cshtml",
+      "TargetPath": "Views\\Friends\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/zang/Projects/MvcFriends/Views/Friends/Details.cshtml",
+      "TargetPath": "Views\\Friends\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/zang/Projects/MvcFriends/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/zang/Projects/MvcFriends/Views/Friends/Index.cshtml",
+      "TargetPath": "Views\\Friends\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
